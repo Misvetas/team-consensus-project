@@ -31,6 +31,7 @@
 Чтобы понять, для кого создаётся продукт, команда провела онлайн-опрос в Google Формах. Опрос проходил с 17 по 19 октября 2026 года, на него ответили 36 человек в возрасте от 17 до 28 лет.
 
 **Ссылка на опрос:** [https://docs.google.com/forms/d/e/1FAIpQLScjRtxWn7Vp_gVEwvrdjqNcwKzMkAOTCJSrYHwgfdqbOt2HBg/viewform](https://docs.google.com/forms/d/e/1FAIpQLScjRtxWn7Vp_gVEwvrdjqNcwKzMkAOTCJSrYHwgfdqbOt2HBg/viewform?usp=publish-editor)
+**Ссылка на результирующую таблицу:** [https://docs.google.com/spreadsheets/d/1eweCdkw-aKo-Lywya4kEbbAQJwaLpzX-73QXCfmghOM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1eweCdkw-aKo-Lywya4kEbbAQJwaLpzX-73QXCfmghOM/edit?usp=sharing)
 
 Вопросы опроса:
 
